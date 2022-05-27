@@ -15,7 +15,7 @@ int main()
 	}
 	else{
 
-		printf("No Scholarship");
+		printf("Not eligible for scholarship");
 	}
 
 	return 0;
