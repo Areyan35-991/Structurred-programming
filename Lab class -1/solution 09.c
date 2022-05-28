@@ -22,7 +22,7 @@ int main()
 
 	sum=d1+d4;
 
-	printf("Sum of first %d and last digit %  is %d",d1,d4,sum);
+	printf("Sum of first digit %d and last digit %d  is %d",d1,d4,sum);
 
 	return 0;
 
