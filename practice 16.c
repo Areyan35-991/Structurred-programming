@@ -7,7 +7,8 @@ void main()
    scanf("%d",&n);
    printf("\nThe odd numbers are :");
    for(i=1;i<=n;i++)
-   { odd=2*i-1;
+   {
+      odd=2*i-1;
      printf("%d ",odd);
      sum+=odd;
    }
